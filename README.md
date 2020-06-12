@@ -6,7 +6,7 @@ I uploaded it anyway because maybe some Ideas in my code are helpfull for others
 
 ![hexapodDesign](https://github.com/hartmann1301/Hexapod/HexaFrontLeft.PNG)
 
-![hexapodPhoto](https://github.com/hartmann1301/Hexapod/HexaBackside.JPG)
+![hexapodPhoto](HexaBackside.JPG)
 
 The 3D parts of the robot on Thingiverse:
 https://www.thingiverse.com/thing:4445160
